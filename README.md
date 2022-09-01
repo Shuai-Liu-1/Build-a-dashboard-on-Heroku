@@ -5,3 +5,4 @@ heroku link: https://workshop-dashboard.herokuapp.com/
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shuai-Liu-1/dashboard-for-employee-data/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shuai-Liu-1/dashboard-for-employee-data/HEAD)
