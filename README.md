@@ -1,4 +1,4 @@
-# dashboard-for-employee-data
+# Build a dashboard on Heroku
 
 build a dashboare with Plotly and public it on Heroku to show dashboard other than loacal machine for free.
 heroku link: https://workshop-dashboard.herokuapp.com/
